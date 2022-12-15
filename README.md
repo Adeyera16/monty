@@ -1,7 +1,12 @@
 This is a project called LIFO FIFO
 
+Monty Interpreter in C
+Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project was to create an interpreter for Monty ByteCodes files in C language.
+
 Requirements
+
 General
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=c89
 All your files should end with a new line
